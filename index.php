@@ -5,7 +5,7 @@ com o banco
 de dados*/
 $servername = "localhost";
 //você deu nome ao banco de dados
-$database = ""; //func2c ou func2d
+$database = "func2d"; //func2d ou func2d
 $username = "root";
 $password = "";
 
