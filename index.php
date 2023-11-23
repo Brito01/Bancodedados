@@ -71,6 +71,11 @@ if(!empty($selecionado)){
 
 ?>
 <html>
+    <head>
+        <title>Tabela De Funcionario</title>
+        <meta charset="UTF-8">
+    </head>
+        
     <body>
     <form name = "func" method = "post" >
         <label>ID</label>
